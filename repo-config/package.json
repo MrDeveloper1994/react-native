@@ -39,7 +39,7 @@
     "jest-junit": "^10.0.0",
     "jscodeshift": "^0.13.1",
     "metro-babel-register": "0.66.2",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "prettier": "^2.4.1",
     "react": "17.0.2",
     "react-native-codegen": "^0.0.13",
