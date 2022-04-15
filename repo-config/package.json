@@ -16,7 +16,7 @@
     "@reactions/component": "^2.0.2",
     "async": "^2.4.0",
     "babel-eslint": "^10.1.0",
-    "clang-format": "^1.2.4",
+    "clang-format": "^1.7.0",
     "connect": "^3.6.5",
     "coveralls": "^3.0.2",
     "eslint": "^7.32.0",
