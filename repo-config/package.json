@@ -9,7 +9,7 @@
     "url": "git@github.com:facebook/react-native.git"
   },
   "dependencies": {
-    "@babel/core": "^7.14.0",
+    "@babel/core": "^7.22.6",
     "@babel/generator": "^7.14.0",
     "@react-native-community/eslint-plugin": "*",
     "@react-native/eslint-plugin-specs": ">0.0.2",
